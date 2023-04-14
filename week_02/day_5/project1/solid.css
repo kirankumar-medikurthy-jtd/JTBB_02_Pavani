@@ -1,0 +1,77 @@
+.nav
+{
+	padding:10px 100px 10px 100px;
+	display:flex;
+	background-color:rgb(21,16,85)	
+}
+.text
+{
+	font-size:30px;
+	margin-left:-80px;
+	margin-right:70px;
+}
+.text a
+{
+	text-decoration:none;
+}
+.white
+{
+	color:white;
+}
+.text1
+{
+	margin-top:10px;
+	font-size:16px;
+	margin-left:420px;
+	margin-right:-50px;
+	border-bottom:none;
+}
+.text1 a
+{
+	text-decoration:none;
+}
+.text2
+{
+	margin-right:-40px;
+	margin-top:10px;
+	margin-left:92px;
+}
+.text2 a
+{
+	text-decoration:none;
+}
+.firstBox
+{
+	width:99.9%;
+	height:670px;
+	border:1px solid blue;
+	background-image:url("/home/jtbb/Desktop/project1/solid.jpg");
+	
+	
+}
+.text3
+{
+	font-size:130px;
+	margin-left:400px;
+	margin-top:130px;
+}
+.articalBox
+{
+	width:200px;
+	height:30px;	
+}
+.findcource
+{
+	padding:10px 5px 10px;;
+	margin-right:700px;
+	margin-left:400px;
+	margin-top:-80px;
+	text-align:center;
+	background-color:white;
+}
+.findcource a
+{
+	text-decoration:none;
+}
+
+

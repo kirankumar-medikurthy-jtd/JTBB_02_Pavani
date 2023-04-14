@@ -1,0 +1,229 @@
+.nav
+{
+	padding:10px 100px 10px 100px;
+	display:flex;
+	background-color:rgb(17,21,22)	
+}
+.text
+{
+	font-size:30px;
+	margin-left:-80px;
+	margin-right:70px;
+}
+.text a
+{
+	text-decoration:none;
+}
+.white
+{
+	color:white;
+}
+.text1
+{
+	margin-top:10px;
+	font-size:16px;
+	margin-left:420px;
+	margin-right:-50px;
+	border-bottom:none;
+}
+.text1 a
+{
+	text-decoration:none;
+}
+.text2
+{
+	margin-right:-40px;
+	margin-top:10px;
+	margin-left:92px;
+}
+.text2 a
+{
+	text-decoration:none;
+}
+.firstBox
+{
+	width:99.9%;
+	height:500px;
+	border:1px solid black;
+	background-color:rgb(43,43,41)
+	
+}
+.text3
+{
+	font-size:100px;
+	margin-left:250px;
+}
+.sevenBox
+{
+	padding:300px 100px 120px 100px;
+	margin-top:2px;
+}
+.image5
+{
+	margin-left:54px;
+	margin-right:10px;
+	margin-top:-40px;
+	margin-bottom:10px;
+}
+.imgsize5
+{
+	width:285px;
+	height:200px;
+	
+	
+}
+.image6
+{
+	margin-left:210px;
+	margin-right:10px;
+	margin-top:-40px;
+}
+.linetext
+{
+	font-size:40px;
+	margin-top:-80px;
+	margin-left:23px;
+}
+.linetext1
+{
+	font-size:40px;
+	margin-top:-20px;
+	margin-left:-80px;
+}
+.image7
+{
+	margin-left:54px;
+	margin-right:10px;
+	margin-top:-50px;
+}
+.image8
+{
+	margin-left:210px;
+	margin-right:10px;
+	margin-top:-50px;
+}
+.linetext2
+{
+	font-size:40px;
+	margin-top:-30px;
+	margin-left:-80px;
+}
+.linetext3
+{
+	font-size:40px;
+	margin-top:-90px;
+	margin-left:23px;
+}
+.read
+{
+	padding:15px;
+	background-color:black;
+	margin-left:-170px;
+	margin-top:100px;
+	margin-bottom:110px;
+}
+.read a
+{
+	text-decoration:none;
+}
+.read1
+{
+	padding:15px;
+	background-color:black;
+	margin-left:-260px;
+	margin-top:100px;
+	margin-bottom:110px;
+}
+.read1 a
+{
+	text-decoration:none;
+}
+.read2
+{
+	padding:15px;
+	background-color:black;
+	margin-left:-232px;
+	margin-top:80px;
+	margin-bottom:130px;
+}
+.read2 a
+{
+	text-decoration:none;
+}
+.read3
+{
+	padding:15px;
+	background-color:black;
+	margin-left:-230px;
+	margin-top:80px;
+	margin-bottom:130px;
+}
+.read3 a
+{
+	text-decoration:none;
+}
+.read4
+{
+	padding:15px;
+	background-color:black;
+	margin-left:-280px;
+	margin-top:90px;
+	margin-bottom:110px;
+}
+.read4 a
+{
+	text-decoration:none;
+}
+.display
+{
+	display:flex;
+}
+.eightBox
+{
+	width:100%;
+	height:200px;
+	border:2px solid black;
+	background-color:black;
+}
+.footertext
+{
+	font-size:30px;
+	
+	margin-left:5px;
+	margin-right:70px;
+}
+.footertext a
+{
+	text-decoration:none;
+}
+.footerpages
+{
+	display:flex;
+	
+}
+.footerpage
+{
+	color:white;
+	margin-top:147px;
+}
+.footerend
+{
+	margin-top:147px;
+	margin-left:2px;
+}
+.footerend a
+{
+	
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+

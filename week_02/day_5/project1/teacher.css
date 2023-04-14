@@ -1,0 +1,138 @@
+.nav
+{
+	padding:10px 100px 10px 100px;
+	display:flex;
+	background-color:rgb(17,21,22)	
+}
+.text
+{
+	font-size:30px;
+	margin-left:-80px;
+	margin-right:70px;
+}
+.text a
+{
+	text-decoration:none;
+}
+.white
+{
+	color:white;
+}
+.text1
+{
+	margin-top:10px;
+	font-size:16px;
+	margin-left:420px;
+	margin-right:-50px;
+	border-bottom:none;
+}
+.text1 a
+{
+	text-decoration:none;
+}
+.text2
+{
+	margin-right:-40px;
+	margin-top:10px;
+	margin-left:92px;
+}
+.text2 a
+{
+	text-decoration:none;
+}
+.firstBox
+{
+	width:99.9%;
+	height:500px;
+	border:1px solid black;
+	background-color:rgb(43,43,41)
+	
+}
+.text3
+{
+	font-size:100px;
+	margin-left:250px;
+}
+.secondBox
+{
+	width:99.9%;
+	height:900px;
+}
+.image
+{
+	margin-left:220px;
+	margin-top:160px;
+	
+	
+}
+.imagesize
+{
+	width:150px;
+	height:150px;
+}
+.display
+{
+	display:flex;
+}
+.black
+{
+	color:black;
+}
+.paragraph
+{
+	margin-left:260px;
+	font-size:20px;
+}
+.paragraph a
+{
+	text-decoration:none;
+}
+img
+{
+	border-radius:50%;
+}
+.eightBox
+{
+	width:100%;
+	height:200px;
+	background-color:black;
+}
+.footertext
+{
+	font-size:30px;
+	
+	margin-left:5px;
+	margin-right:70px;
+}
+.footertext a
+{
+	text-decoration:none;
+}
+.footerpages
+{
+	display:flex;
+	
+}
+.footerpage
+{
+	color:white;
+	margin-top:147px;
+}
+.footerend
+{
+	margin-top:147px;
+	margin-left:2px;
+}
+.footerend a
+{
+	
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
